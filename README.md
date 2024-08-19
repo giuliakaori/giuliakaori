@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=giuliakaori&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=giuliakaori&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliakaori&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img align="right" height="150" src="https://i.gifer.com/1fZK.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIxemljZDB1YnEwaGdlNW9hbTZqNTY0N2lvcW5heXduMXFuNWdkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.webp"  />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=giuliakaori&theme=radical&no-frame=false&no-bg=true&margin-w=4)
