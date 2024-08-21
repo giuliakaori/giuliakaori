@@ -2,8 +2,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-kaori-nakamashi-6818a226a/) <br/>
-E-mail: giuliakaori6@gmail.com <br/>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+E-mail: giuliakaori6@gmail.com 
 
 
 # 💻 Tech Stack:
@@ -12,7 +11,8 @@ E-mail: giuliakaori6@gmail.com <br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=giuliakaori&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=giuliakaori&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=giuliakaori&theme=dark&hide_border=false)<br/> <br/>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliakaori&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIxemljZDB1YnEwaGdlNW9hbTZqNTY0N2lvcW5heXduMXFuNWdkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.webp"  />
 
