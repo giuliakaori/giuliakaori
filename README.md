@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim:
-Olá, sou a Giulia Kaori. Tenho técnico em Informática para Internet pela ETEC Professor Adolpho Arruda Mello. Atualmente estou no 6° termo do curso Análise e Desenvolvimento de Sistemas. 
+Olá, sou a Giulia Kaori. Tenho técnico em Informática para Internet pela ETEC Professor Adolpho Arruda Mello. Atualmente estou no 6° termo do curso Análise e Desenvolvimento de Sistemas pela FATEC Presidente Prudente.
 Estou fazendo meu estágio na área de TI na ETEC Professor Adolpho Arruda Mello.
 
 ## 🌐 Socials:
