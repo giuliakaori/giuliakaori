@@ -16,7 +16,8 @@ E-mail: giuliakaori6@gmail.com
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=giuliakaori&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=giuliakaori&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br/>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=giuliakaori&limit=5&theme=dark&combine_all_yearly_contributions=true)
