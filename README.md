@@ -3,8 +3,8 @@ Olá, sou a Giulia Kaori. Tenho técnico em Informática para Internet pela ETEC
 Estou fazendo meu estágio na área de TI na ETEC Professor Adolpho Arruda Mello.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-kaori-nakamashi-6818a226a/) <br/>
-E-mail: giuliakaori6@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/giulia-kaori-nakamashi-337064332) <br/>
+E-mail: giulianakamashi@hotmail.com 
 
 
 # 💻 Tech Stack:
